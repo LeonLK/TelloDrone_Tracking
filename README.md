@@ -10,5 +10,5 @@ Goal : Implement face tracking and recognition for Tello Drone. Also follows the
 
 FOLDERS
 
-Tello_default : uses the built in opensource library for Tello 
+Tello_default : uses the built in open source library for Tello 
 Tello_unofficial : self made functions for communication between computer and Tello, video streaming, and getting states.
